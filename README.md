@@ -1,4 +1,4 @@
-# Ülke, İl ve İlçe Apisi
+# .NET Core 8.0 Ülke, İl ve İlçe Apisi
 
 Bu proje, yerel bir JSON dosyasından ülke, il ve ilçe bilgilerini sağlayan bir .NET Core 8 API uygulamasıdır. API, belirli ülke ve il kodlarına göre veri dönen yöntemler sunar ve dil desteğiyle birlikte temiz kodlama prensiplerine göre yapılandırılmıştır.
 
